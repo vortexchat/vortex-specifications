@@ -1,3 +1,3 @@
-# Vortex's specifications
+# VORTEX's Specifications
 
-* [VORTEX's protocol specifications](https://github.com/vortexchat/vortex-specifications/blob/master/vortex-protocol-specifications.md)
+* [Protocol specifications](https://github.com/vortexchat/vortex-specifications/blob/master/vortex-protocol-specifications.md)
