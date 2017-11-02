@@ -1,5 +1,7 @@
 # VORTEX's protocol specifications
 
+![](https://raw.githubusercontent.com/vortexchat/vortex-specifications/master/images/vortex-protocol.png)
+
 ## Encryption and signature algorithms
 
 ### Asymmetric encryption and signature algorithms
